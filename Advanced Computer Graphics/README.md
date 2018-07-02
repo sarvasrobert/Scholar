@@ -1,10 +1,10 @@
 
 ## Exercises from Advanced Computer Graphics seminar   
 
-Here are some examples of my CPU based raytracer created in C# during the lessons of ACG. /n \n
-Exercise 5 focus on creating of various light sources
-Excercise 6 focus on creating of physicaly based reflections and refractions
-Excercise 8 focus on Postprocessing such as Antialiasing and  Depth of field  
+* Here are some examples of my CPU based raytracer created in C# during the lessons of ACG. 
+* Exercise 5 focus on creating of various light sources
+* Excercise 6 focus on creating of physicaly based reflections and refractions
+* Excercise 8 focus on Postprocessing such as Antialiasing and  Depth of field  
 
 **Screens:**
 
