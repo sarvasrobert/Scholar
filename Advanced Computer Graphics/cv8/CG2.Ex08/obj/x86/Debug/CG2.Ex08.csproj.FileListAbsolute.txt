@@ -1,0 +1,8 @@
+C:\Users\Robert\Desktop\skola\skolsky_repo\4rocnik\ppg\cv8\CG2.Ex08\bin\Debug\CG2.Ex08.exe
+C:\Users\Robert\Desktop\skola\skolsky_repo\4rocnik\ppg\cv8\CG2.Ex08\bin\Debug\CG2.Ex08.pdb
+C:\Users\Robert\Desktop\skola\skolsky_repo\4rocnik\ppg\cv8\CG2.Ex08\obj\x86\Debug\CG2.Ex08.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\skola\skolsky_repo\4rocnik\ppg\cv8\CG2.Ex08\obj\x86\Debug\CG2.Ex08.Form1.resources
+C:\Users\Robert\Desktop\skola\skolsky_repo\4rocnik\ppg\cv8\CG2.Ex08\obj\x86\Debug\CG2.Ex08.Properties.Resources.resources
+C:\Users\Robert\Desktop\skola\skolsky_repo\4rocnik\ppg\cv8\CG2.Ex08\obj\x86\Debug\CG2.Ex08.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\skola\skolsky_repo\4rocnik\ppg\cv8\CG2.Ex08\obj\x86\Debug\CG2.Ex08.exe
+C:\Users\Robert\Desktop\skola\skolsky_repo\4rocnik\ppg\cv8\CG2.Ex08\obj\x86\Debug\CG2.Ex08.pdb
