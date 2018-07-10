@@ -1,17 +1,31 @@
 
-# Graphics on GPU 
+# Pattern recognition
 
-## Mini project created at seminar Grahics on GPU.  
+## Semester project: Detection of blurred patches in images  
 
 
-Project is created in C++, OpenGL with Glut & Glew libraries.
-Its a simple scene of 5 textured objects loaded from Collada files, 
-illuminated with basic Phong illumination model.
+Project is created in Matlab R2018a.
 
-Models and light are animated. Camera can be rotated by WSAD keyboards and move forward by K and backward by L keyboard.  
-In project I created fog with Depth Buffer to simulate density of water.
-With H you can turn of "FOG" and with G you can switch between exponential or linear fog.
+*Idea:*
+I aim to detect motion blur and out of focus blur on dataset contains 1000 images and also contains human labeled ground-truth images.
+Source of dataset: http://www.cse.cuhk.edu.hk/leojia/projects/dblurdetect/dataset.html
+I split this dataset on three parts: training, validation and testing dataset in 80:5:5.
 
+My demo consist of 2 files m1.m and m2.m.
+M1.m
+I use superpixel function to split each image in ~100 superpixels
+Extract multiple features from images.
+	° histogram feateres (cca 8)
+	° haralicks Texture features (cca 12)
+Save this features in .mat format
+
+M2.m
+load data from .mat files
+use PCA to reduce features
+train classifier - non linear SVM and KNN(K-nearest neighbours) on training dataset 
+adjust hyperparams of classifiers on validation set
+Finnaly test correction of classification of classifiers. 
+ 
 **Screens:**
 
 ![Scene](https://github.com/sarvasrobert/Scholar/blob/master/Graphics%20in%20GPU/GPU_PROJECT.png?raw=true)
