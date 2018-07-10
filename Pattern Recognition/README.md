@@ -25,10 +25,25 @@ use PCA to reduce features
 train classifier - non linear SVM and KNN(K-nearest neighbours) on training dataset 
 adjust hyperparams of classifiers on validation set
 Finnaly test correction of classification of classifiers. 
- 
+
 **Screens:**
 
-![Scene](https://github.com/sarvasrobert/Scholar/blob/master/Graphics%20in%20GPU/GPU_PROJECT.png?raw=true)
+Segmentation to superpixels:
+![segmentation to superpixels](https://github.com/sarvasrobert/Scholar/blob/master/Pattern%20Recognition/1.png?raw=true)
+
+Good classification:
+![good classification](https://github.com/sarvasrobert/Scholar/blob/master/Pattern%20Recognition/2.png?raw=true)
+
+![good classification](https://github.com/sarvasrobert/Scholar/blob/master/Pattern%20Recognition/3.png?raw=true)
+
+![good classification](https://github.com/sarvasrobert/Scholar/blob/master/Pattern%20Recognition/4.png?raw=true)
+
+Bad classification:
+![bad classification](https://github.com/sarvasrobert/Scholar/blob/master/Pattern%20Recognition/bad1.png?raw=true)
+
+![bed classification](https://github.com/sarvasrobert/Scholar/blob/master/Pattern%20Recognition/bad2.png?raw=true)
+
+![bed classification](https://github.com/sarvasrobert/Scholar/blob/master/Pattern%20Recognition/bad3.png?raw=true)
 
 
 	
